@@ -9,7 +9,7 @@
     - L’impression des détails de la réservation (numéro de vol + siège) d’un ou plusieurs passagers
 
 
-![Alt text](/assets/menu.png?raw=true "Optional Title")
+![Alt text](/assets/images/menu.png?raw=true "Menu de  systéme de resérvation")
 
 
 ## Requirement for testing
