@@ -20,7 +20,7 @@
 
 ![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/db_avions.PNG?raw=true "db avions")
 
-![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/db_reservations.PNG.PNG?raw=true "db avions")
+![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/db_reservations.PNG?raw=true "db avions")
 
 ## Requirement for testing
 ```sh
