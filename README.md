@@ -11,6 +11,8 @@
 ## screenshots
 ![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/menu.PNG?raw=true)
 ![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/pytest.PNG?raw=true)
+![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/report.PNG?raw=true "HTML REPORT")
+
 
 
 ## Requirement for testing
