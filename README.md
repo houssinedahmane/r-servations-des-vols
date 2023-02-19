@@ -9,9 +9,11 @@
     - L’impression des détails de la réservation (numéro de vol + siège) d’un ou plusieurs passagers
 
 ## screenshots
-![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/menu.PNG?raw=true)
-![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/pytest.PNG?raw=true)
-![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/report.PNG?raw=true "HTML REPORT")
+![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/menu.PNG?raw=true "MENU")
+
+![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/pytest.PNG?raw=true "TEST RESULT")
+
+![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/blob/main/assets/images/report.PNG?raw=true "HTML TEST REPORT")
 
 
 
