@@ -9,7 +9,7 @@
     - L’impression des détails de la réservation (numéro de vol + siège) d’un ou plusieurs passagers
 
 
-![Alt text](\res\assets\images\menu.PNG?raw=true "Menu de  systéme de resérvation")
+![Alt text](https://github.com/houssinedahmane/OnePoint_test_de_comp-tences/tree/main/assets/images/menu.PNG?raw=true "Menu de  systéme de resérvation")
 
 
 ## Requirement for testing
