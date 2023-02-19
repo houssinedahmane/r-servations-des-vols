@@ -8,8 +8,11 @@
     - La modification du siège d’un ou plusieurs passagers
     - L’impression des détails de la réservation (numéro de vol + siège) d’un ou plusieurs passagers
 
-## Install
 
+![Alt text](/assets/menu.png?raw=true "Optional Title")
+
+
+## Requirement for testing
 ```sh
 # pip install pytest 
 ```
