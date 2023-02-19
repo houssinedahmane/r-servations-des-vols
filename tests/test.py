@@ -1,6 +1,6 @@
 import sqlite3
 import unittest
-from reservations import ReservationSystem
+from reservations.reservations import ReservationSystem
 
 class TestReservationSystem(unittest.TestCase):
 

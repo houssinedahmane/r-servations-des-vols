@@ -27,7 +27,7 @@ class ReservationSystem:
         self.c.execute("INSERT INTO avions (numero_vol, avion_type,taille, siege) VALUES (?, ?, ?,?)",
                        (numero_vol, avion_type, taille, siege))
         self.connection.commit()
-        
+        print('\x1b[5;37;42m' + 'Avion ajouté avec succée ! ' + '\x1b[0m')
 
 
     def afficher_sieges(self, numero_vol):
@@ -104,7 +104,7 @@ class ReservationSystem:
             self.c.execute("SELECT * FROM reservations")
         else:
             print('DETAILS DE RESERVATION  : \n')
-            print('\x1b[6;30;42m' + "Réservation de", res[0], "pour le vol", res[1], "au siège", res[2], ".\n" + '\x1b[0m')
+            print('\x1b[6;30;42m' + "Réservation de", res[0],  res[1] ,"pour le vol", res[2], "au siège", res[3], ".\n" + '\x1b[0m')
 
 
     def close(self):

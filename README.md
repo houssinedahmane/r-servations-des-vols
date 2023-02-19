@@ -36,7 +36,7 @@ python3 app.py
 ## Run tests
 
 ```sh
-pytest test.py
+pytest -v test.py
 ```
 
 ## Author
